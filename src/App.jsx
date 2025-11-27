@@ -4,6 +4,8 @@ import dbimage from "./assets/db.png"
 import "./App.css";
 
 
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
+
 function toTitleCase(str) {
   return str
     .split(" ")
@@ -52,8 +54,8 @@ function App() {
 
         const queryString = params.toString();
         const url = queryString
-          ? `http://localhost:3000/api/characters?${queryString}`
-          : "http://localhost:3000/api/characters";
+          ? `${API_BASE_URL}/api/characters?${queryString}`
+          : `${API_BASE_URL}/api/characters`;
 
         const res = await fetch(url);
 

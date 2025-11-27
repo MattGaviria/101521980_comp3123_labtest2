@@ -3,7 +3,7 @@ for this project I used **Dragon Ball API**
 
 This a React + Node.js app that allows users to serach a Dragon Ball X by name, race, gender and affiliation.
 
-##API USED
+## API USED
 **Public API:** [Dragon Ball API](https://www.dragonball-api.com/)
 ## Api Call Example:
 `GET https://dragonball-api.com/api/characters`
