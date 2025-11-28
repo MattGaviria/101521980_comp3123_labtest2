@@ -1,5 +1,5 @@
 # Dragon Ball Z Character API
-For this project I used **Dragon Ball API**
+For this project, I used **Dragon Ball API**
 
 ## Vercel Link:
 https://dbz-explorer.vercel.app/
@@ -43,12 +43,6 @@ npm run dev
 - `GET http://localhost:3000/api/characters?name=Goku&race=Saiyan&gender=Male&affiliation=Z%20Fighter`
 
 
-## Credit For the API
+### Credits to the API developer:
 [Antonio Alvarez Lopez](https://https://github.com/intentodepirata)
 
-
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
