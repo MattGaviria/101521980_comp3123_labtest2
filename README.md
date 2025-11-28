@@ -24,13 +24,8 @@ This React + Node.js app allows users to search a Dragon Ball X by name, race, g
 <img width="1871" height="883" alt="image" src="https://github.com/user-attachments/assets/0aa25a5d-0ab9-49d2-82d7-bda3554b92cb" />
 
 
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
 ## How to run Locally
-### Backend (Node/Express)
+### Backend (Node / Express)
 cd server
 npm install
 node. index.js
@@ -39,7 +34,7 @@ npm install
 npm run dev
 
 
-### In this project, the front-end never calls the API instead, it calls the back end:
+### In this project, the front-end never calls the API; instead, it calls the back end:
 - `GET http://localhost:3000/api/characters?name=Goku&race=Saiyan&gender=Male&affiliation=Z%20Fighter`
 
 
