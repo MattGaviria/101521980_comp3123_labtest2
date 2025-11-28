@@ -1,11 +1,13 @@
 # Dragon Ball Z Character API
 For this project I used **Dragon Ball API**
 
-##Vercel Link:
+## Vercel Link:
 https://dbz-explorer.vercel.app/
 
 ## Backend hosted at:
 https://dbz-backend.onrender.com
+<img width="1252" height="408" alt="image" src="https://github.com/user-attachments/assets/9f452c13-cdad-4044-a9e2-4a65c5aa90ac" />
+
 
 This React + Node.js app allows users to search a Dragon Ball X by name, race, gender and affiliation.
 
@@ -18,6 +20,10 @@ This React + Node.js app allows users to search a Dragon Ball X by name, race, g
 -'?race=Saiyan'
 -'?gender=Male'
 -'?affiliation=Villain'
+
+<img width="1871" height="883" alt="image" src="https://github.com/user-attachments/assets/0aa25a5d-0ab9-49d2-82d7-bda3554b92cb" />
+
+
 
 ## React Compiler
 
