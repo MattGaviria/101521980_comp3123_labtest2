@@ -39,9 +39,12 @@ npm install
 npm run dev
 
 
-
-In this project, the front-end never calls the API instead, it calls the back end:
+### In this project, the front-end never calls the API instead, it calls the back end:
 - `GET http://localhost:3000/api/characters?name=Goku&race=Saiyan&gender=Male&affiliation=Z%20Fighter`
+
+
+## Credit For the API
+[Antonio Alvarez Lopez](https://https://github.com/intentodepirata)
 
 
 
