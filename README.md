@@ -1,7 +1,13 @@
 # Dragon Ball Z Character API
-for this project I used **Dragon Ball API**
+For this project I used **Dragon Ball API**
 
-This a React + Node.js app that allows users to serach a Dragon Ball X by name, race, gender and affiliation.
+##Vercel Link:
+https://dbz-explorer.vercel.app/
+
+## Backend hosted at:
+https://dbz-backend.onrender.com
+
+This React + Node.js app allows users to search a Dragon Ball X by name, race, gender and affiliation.
 
 ## API USED
 **Public API:** [Dragon Ball API](https://www.dragonball-api.com/)
@@ -18,7 +24,7 @@ This a React + Node.js app that allows users to serach a Dragon Ball X by name, 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
 ## How to run Locally
-### Backend (Node/express)
+### Backend (Node/Express)
 cd server
 npm install
 node. index.js
@@ -27,7 +33,8 @@ npm install
 npm run dev
 
 
-In this project, the fronted never calls the API instead it calls the back end:
+
+In this project, the front-end never calls the API instead, it calls the back end:
 - `GET http://localhost:3000/api/characters?name=Goku&race=Saiyan&gender=Male&affiliation=Z%20Fighter`
 
 
