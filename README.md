@@ -39,5 +39,5 @@ npm run dev
 
 
 ### Credits to the API developer:
-[Antonio Alvarez Lopez](https://https://github.com/intentodepirata)
+[Antonio Alvarez Lopez](https://github.com/intentodepirata)
 
